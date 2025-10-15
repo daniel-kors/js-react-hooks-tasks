@@ -2,7 +2,6 @@ import React, { useState, useCallback, memo } from 'react';
 import { useTranslation } from 'react-i18next';
 
 // BEGIN (write your solution here)
-
 // END
 
 const App = () => {
@@ -19,7 +18,6 @@ const App = () => {
   };
 
   // BEGIN (write your solution here)
-
   // END
 
   const getClassName = (currLang) => {
